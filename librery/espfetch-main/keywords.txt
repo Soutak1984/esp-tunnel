@@ -1,0 +1,42 @@
+#######################################
+# Syntax Coloring Map for espfetch
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ESPFetch	KEYWORD1
+ESPLogger	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+check	KEYWORD2
+print	KEYWORD2
+printJSON	KEYWORD2
+debug	KEYWORD2
+info	KEYWORD2
+warning	KEYWORD2
+error	KEYWORD2
+critical	KEYWORD2
+request	KEYWORD2
+setLevel	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+espfetch	KEYWORD2
+logger	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+LVL_DEBUG	LITERAL1
+LVL_INFO	LITERAL1
+LVL_WARNING	LITERAL1
+LVL_ERROR	LITERAL1
+LVL_CRITICAL	LITERAL1
